@@ -1,2 +1,1 @@
-# 5-labka
-5
+print("Hello world")
