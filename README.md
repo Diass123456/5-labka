@@ -1,1 +1,1 @@
-ISko cmo
+Sultanbekov Dias
